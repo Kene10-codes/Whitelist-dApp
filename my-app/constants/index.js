@@ -1,5 +1,5 @@
 export const WHITELIST_CONTRACT_ADDRESS =
-  "0x50B1f77f49769dF5F8573d916BE59A746B8bF71e";
+  "0x62Da8103B5598cD4e2D5a17A59d919A3472388a5";
 export const abi = [
   {
     inputs: [
@@ -34,7 +34,7 @@ export const abi = [
   },
   {
     inputs: [],
-    name: "numAddressWhitelisted",
+    name: "numAddressesWhitelisted",
     outputs: [
       {
         internalType: "uint8",
